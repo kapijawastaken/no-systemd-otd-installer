@@ -4,3 +4,4 @@ tar xvf ./opentabletdriver-0.*.tar.gz --directory=/
 cp -r ./opentabletdriver/ /etc/sv/
 chmod +x /etc/sv/opentabletdriver/run
 ln -s /etc/sv/opentabletdriver /var/service
+sv enable opentabletdriver
