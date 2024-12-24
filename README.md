@@ -6,6 +6,8 @@ Install dotnet
 ## Step 2:
 ```git clone https://github.com/kapijawastaken/void-otd-installer```
 ## Step 3:
-```chmod void-otd-installer.sh```
+```cd void-otd-installer```
 ## Step 4:
+```chmod void-otd-installer.sh```
+## Step 5:
 ```sudo ./void-otd-installer.sh```
