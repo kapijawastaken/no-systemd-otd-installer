@@ -8,6 +8,6 @@ Install dotnet
 ## Step 3:
 ```cd void-otd-installer```
 ## Step 4:
-```chmod void-otd-installer.sh```
+```chmod +x void-otd-installer.sh```
 ## Step 5:
-```sudo ./void-otd-installer.sh```
+```./void-otd-installer.sh```
