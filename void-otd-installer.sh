@@ -1,4 +1,4 @@
-#/bin/sh
+#!/bin/sh
 cd ~/Downloads
 wget https://github.com/OpenTabletDriver/OpenTabletDriver/releases/download/v0.6.5.0/opentabletdriver-0.6.5.0-x64.tar.gz
 mkdir ~/Applications/
