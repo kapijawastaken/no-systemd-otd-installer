@@ -1,14 +1,14 @@
 # void-otd-installer
-A script which installs OpenTabletDriver onto your Void Linux machine.
+A script which installs OpenTabletDriver onto your runit machine.
 
 ## Step 1:
 Install dotnet
 ## Step 2:
-```git clone https://github.com/kapijawastaken/void-otd-installer```
+```git clone https://github.com/kapijawastaken/runit-otd-installer```
 ## Step 3:
-```cd void-otd-installer```
+```cd runit-otd-installer```
 ## Step 4:
-```chmod +x void-otd-installer.sh```
+```chmod +x runit-otd-installer.sh```
 ## Step 5:
 ```./void-otd-installer.sh```
 ## Step 6:
