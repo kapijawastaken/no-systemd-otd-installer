@@ -14,4 +14,4 @@ A script which installs OpenTabletDriver onto your no-systemd machine.
 ## Step 6:
 ```./no-systemd-otd-installer.sh```
 ## Step 7:
-Add ~/Applications/opentabletdriver/usr/local/bin to your $PATH and autostart otd-daemon (as your user, not as root!)
+Autostart otd-daemon (as your user, not as root!)
