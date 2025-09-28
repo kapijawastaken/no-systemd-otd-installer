@@ -1,4 +1,4 @@
-# runit-otd-installer
+# no-systemd-otd-installer
 A script which installs OpenTabletDriver onto your no-systemd machine.
 
 ## Step 1:
